@@ -82,3 +82,11 @@ Jäähtynyt vierre kaadettiin desinfioituun käymisastiaan siivilän läpi.
 Käymisastian kansi suljettiin ja vierrettä hölskyteltiin, jotta vierre ilmaantuisi. Kuivahiiva lisättiin käymisastiaan sellaisenaan.
 
 <img src="images/photo_2021-02-12_17-50-55.jpg">
+
+Vierteen ominaispaino (OG): 1,058
+
+Tavoite ominaispaino (FG): 1,016
+
+Laskettu mäskäyksen tehokkuus 2kg maltaasta: 65%
+
+Arvioitu alkoholin tilavuusprosenntti: 5,42%
