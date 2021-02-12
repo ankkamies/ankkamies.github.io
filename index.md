@@ -61,13 +61,11 @@ Kun kiehumispiste saavutettiin, lisättiin humalat sekaan humalapussissa. Humala
 <img src="images/photo_2021-02-12_17-50-43.jpg">
 
 Humala-aikataulu:
-| Aika | Humala & määrä |
-| ------------- |:-------------:|
-| 60min    | 10g Columbus |
-| 30min    | 10g Columbus |
-| 15min    | 15g Columbus |
-| 0min/Whirlpool    | 10g Columbus |
-| Dry hop   | 15g Columbus |
+- 60min 10g Columbus
+- 30min 10g Columbus
+- 15min 5g Columbus
+- 0min/Whirlpool 10g Columbus
+- Dry-hop 15g primäärikäymisen jälkeen
 
 60min keiton jälkeen pyöräytettiin sekoittimella pieni pyörre, jossa viimeisimmät humalat olivat mukana. Tämän jälkeen kattila siirrettiin pois levyltä ja jäähdytyskäämi asennettiin paikalleen.
 
