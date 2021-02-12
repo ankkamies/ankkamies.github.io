@@ -61,7 +61,7 @@ Kun kiehumispiste saavutettiin, lisättiin humalat sekaan humalapussissa. Humala
 <img src="images/photo_2021-02-12_17-50-43.jpg">
 
 Humala-aikataulu:
-| Tables        | Are           |
+| Aika | Humala & määrä |
 | ------------- |:-------------:|
 | 60min    | 10g Columbus |
 | 30min    | 10g Columbus |
